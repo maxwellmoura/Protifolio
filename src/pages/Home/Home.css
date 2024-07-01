@@ -4,24 +4,20 @@ body {
   font-family: Arial, sans-serif;
 }
 
-
 .container {
   margin-top: 70px; 
   padding: 20px;
 }
 
-
 article {
+  margin-top: 100px;
   background-color: #f9f9f9; 
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
   display: flex; 
-}
-
-
-.texto {
-  flex: 1; 
+  justify-content: space-between; /* Adiciona espaço entre texto e imagem */
+  align-items: center; /* Alinha verticalmente os itens */
 }
 
 .texto h1, .texto h2 {
@@ -40,12 +36,11 @@ article {
   margin-bottom: 10px; 
 }
 
-
 .imagem {
-  margin-left: 20px; 
   display: flex;
   flex-direction: column; 
-  align-items: center; 
+  align-items: center;
+  justify-content: flex-end; /* Alinha a imagem e o botão ao final */
 }
 
 .imagem img {
@@ -53,7 +48,6 @@ article {
   border-radius: 100px; 
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
-
 
 .botoes {
   margin-top: 20px; 

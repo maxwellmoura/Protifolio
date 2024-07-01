@@ -74,7 +74,7 @@ const Projetos = () => {
                     </div>
 
                     <div className="projeto">
-                        <a href="https://mini-blog-seven-xi.vercel.app/">
+                        <a href="https://lanchonete-three.vercel.app/">
                             <img src="./src/assets/lanchonete.PNG" alt="Lanchonete" />
                             <h1>Projeto 6</h1>
                             <div className="informacoes-projeto">

@@ -14,7 +14,7 @@ const Home = () => {
         <div className='imagem'>
           <img src="/assets/Max.jpg" alt="Maxwell-Imagem" />
           <div className="botoes">
-            <a target="_blank" href="./src/cvDevETi.pdf" className="botao outer-shadow">Download CV</a>
+            <a target="_blank" href="/assets/pdf/cvDevETi.pdf" className="botao outer-shadow">Download CV</a>
           </div>
         </div>
       </article>

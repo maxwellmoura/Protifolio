@@ -9,16 +9,16 @@ const Footer = () => {
                     <h2>Me envie uma mensagem!</h2>
                     <div className="redes-sociais">
                         <a href="https://wa.me/5588999760102" className="outer-shadow">
-                            <img src="./src/assets/whatsapp.png" alt="whatsapp" />
+                            <img src="./assets/whatsapp.png" alt="whatsapp" />
                         </a>
                         <a href="https://www.facebook.com/profile.php?id=100010188225652" className="outer-shadow">
-                            <img src="./src/assets/facebook.png" alt="facebook" />
+                            <img src="./assets/facebook.png" alt="facebook" />
                         </a>
                         <a href="https://github.com/maxwellmoura" className="outer-shadow github-icon">
-                            <img src="./src/assets/github.png" alt="github" />
+                            <img src="./assets/github.png" alt="github" />
                         </a>
                         <a href="https://www.instagram.com/orc.dev/" className="outer-shadow">
-                            <img src="./src/assets/instagram.png" alt="instagram" />
+                            <img src="./assets/instagram.png" alt="instagram" />
                         </a>
                     </div>
                     <h2>Desenvolvido por Maxwell Moura</h2>

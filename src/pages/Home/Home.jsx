@@ -12,7 +12,7 @@ const Home = () => {
           <h2>Mora em Sobral - CE</h2>
         </div>
         <div className='imagem'>
-          <img src="./assets/Max.jpg" alt="Maxwell-Imagem" />
+          <img src="./src/assets/Max.jpg" alt="Maxwell-Imagem" />
           <div className="botoes">
             <a target="_blank" href="./src/cvDevETi.pdf" className="botao outer-shadow">Download CV</a>
           </div>

@@ -14,7 +14,7 @@ const Projetos = () => {
                 <div className="container-projetos">
                     <div className="projeto">
                         <a href="https://maxwellmoura.github.io/cursodev/Sindicato/">
-                            <img src="./assets/sindicato.PNG" alt="Site" />
+                            <img src="/assets/sindicato.PNG" alt="Site" />
                             <h1>Projeto 1</h1>
                             <div className="informacoes-projeto">
                                 <h2>Site</h2>
@@ -26,7 +26,7 @@ const Projetos = () => {
 
                     <div className="projeto">
                         <a href="https://maxwellmoura.github.io/cursodev/LandingPage/">
-                            <img src="./assets/landpage.PNG" alt="LandingPage" />
+                            <img src="/assets/landpage.PNG" alt="LandingPage" />
                             <h1>Projeto 2</h1>
                             <div className="informacoes-projeto">
                                 <h2>LandingPage</h2>
@@ -38,7 +38,7 @@ const Projetos = () => {
 
                     <div className="projeto">
                         <a href="https://maxwellmoura.github.io/cursodev/rock/">
-                            <img src="./assets/rock.PNG" alt="Seach de Bandas" />
+                            <img src="/assets/rock.PNG" alt="Seach de Bandas" />
                             <h1>Projeto 3</h1>
                             <div className="informacoes-projeto">
                                 <h2>Projeto de Seach</h2>
@@ -50,7 +50,7 @@ const Projetos = () => {
 
                     <div className="projeto">
                         <a href="https://maxwellmoura.github.io/cursodev/agencia/">
-                            <img src="./assets/agencia.PNG" alt="Agencia de Viagem" />
+                            <img src="/assets/agencia.PNG" alt="Agencia de Viagem" />
                             <h1>Projeto 4</h1>
                             <div className="informacoes-projeto">
                                 <h2>Agencia de Viagem</h2>
@@ -62,7 +62,7 @@ const Projetos = () => {
 
                     <div className="projeto">
                         <a href="https://mini-blog-seven-xi.vercel.app/">
-                            <img src="./assets/miniblog.PNG" alt="MiniBlog" />
+                            <img src="/assets/miniblog.png" alt="MiniBlog" />
                             <h1>Projeto 5</h1>
                             <div className="informacoes-projeto">
                                 <h2>MiniBlog</h2>
@@ -75,7 +75,7 @@ const Projetos = () => {
 
                     <div className="projeto">
                         <a href="https://mini-blog-seven-xi.vercel.app/">
-                            <img src="./src/assets/lanchonete.PNG" alt="Lanchonete" />
+                            <img src="/assets/lanchonete.png" alt="Lanchonete" />
                             <h1>Projeto 6</h1>
                             <div className="informacoes-projeto">
                                 <h2>Lanchonete</h2>
